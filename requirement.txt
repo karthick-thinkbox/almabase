@@ -1,0 +1,5 @@
+Django==1.10.5
+django-el-pagination==3.0.1
+django-pagination==1.0.7
+django-registration-redux==1.4
+PyMySQL==0.7.9
